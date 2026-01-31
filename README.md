@@ -1,70 +1,58 @@
-# 🚀 Cameron Bartholome — Portfolio
+# 🛠️ Cameron Bartholome — Mechanical Design Portfolio
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-under%20construction-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/built%20with-gatsby-663399?style=for-the-badge&logo=gatsby" />
-  <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/status-updating-informational?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <strong>Personal portfolio website</strong><br/>
-  Mechanical Design Engineer · Creative Developer
+  <strong>Mechanical Design Engineer</strong><br/>
+  CAD · Design for Manufacture · Technical Documentation<br/>
+  <em>with a focus on engineering visualization & creative development</em>
 </p>
 
 ---
 
-## ✨ Overview
+## Overview
 
-This repository contains the source code for my **personal portfolio website**.
+This repository contains my **personal portfolio website**.
 
-The site is being actively customized to showcase:
-- Mechanical & engineering experience
-- Technical projects and design work
-- Creative development and visualization
-- Selected side projects and experiments
+It is being updated to reflect my work and experience as a **Mechanical Design Engineer**, with selected projects, case studies, and supporting material.
 
-The design, content, and structure are currently **under construction** and will evolve over time.
+The site structure is based on a clean, minimal foundation and is being progressively customized to fit my own content, branding, and direction.
 
 ---
 
-## 🚧 Current Status
+## Current State
 
-> ⚠️ **Work in progress**
+> 🚧 **Work in progress**
 
-Planned updates include:
-- Custom branding & logo
-- Updated color theme (dark / black-based)
-- Refined typography
-- Curated project showcases
-- Simplified social links (LinkedIn & GitHub)
+The site is actively being updated and refined.  
+Content, visuals, and structure may change as development continues.
 
 ---
 
-## 🛠 Tech Stack
+## Focus
 
-- **Gatsby** (React-based static site generator)
-- **JavaScript / React**
-- **Styled Components**
-- **Static build & deployment**
-
----
-
-## 🤝 Credits & Attribution
-
-This project was originally forked from the **v4 portfolio** by **Brittany Chiang**.
-
-- Original repository:  
-  https://github.com/bchiang7/v4
-- License: **MIT**
-
-The original project provided the foundational layout and structure.  
-All branding, content, and ongoing modifications are being customized for my own use.
-
-Thank you to Brittany for open-sourcing such a clean and well-crafted base.
+- Mechanical design & engineering projects  
+- CAD models, drawings, and documented outcomes  
+- Practical build work and prototyping  
+- Clear visual communication of technical concepts
 
 ---
 
-## 📜 License
+## Credits
+
+This project was originally forked from the **v4 portfolio** by **Brittany Chiang**:  
+https://github.com/bchiang7/v4
+
+The original website is a clean, well-crafted piece of work, and it provided an excellent foundation to build upon.  
+Many thanks to Brittany for open-sourcing the project and making it available under the MIT license.
+
+All branding, content, and ongoing modifications are being customized and adapted for my own portfolio.
+
+---
+
+## License
 
 This project is licensed under the **MIT License**.  
 See the `LICENSE` file for details.

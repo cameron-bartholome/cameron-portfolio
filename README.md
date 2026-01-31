@@ -1,87 +1,70 @@
-<div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
-</div>
-<h1 align="center">
-  brittanychiang.com - v4
-</h1>
+# 🚀 Cameron Bartholome — Portfolio
+
 <p align="center">
-  The fourth iteration of <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
-</p>
-<p align="center">
-  Previous iterations:
-  <a href="https://github.com/bchiang7/v1" target="_blank">v1</a>,
-  <a href="https://github.com/bchiang7/v2" target="_blank">v2</a>,
-  <a href="https://github.com/bchiang7/bchiang7.github.io" target="_blank">v3</a>
-</p>
-<p align="center">
-  <a href="https://app.netlify.com/sites/brittanychiang/deploys" target="_blank">
-    <img src="https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status" alt="Netlify Status" />
-  </a>
+  <img src="https://img.shields.io/badge/status-under%20construction-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/built%20with-gatsby-663399?style=for-the-badge&logo=gatsby" />
+  <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" />
 </p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
+<p align="center">
+  <strong>Personal portfolio website</strong><br/>
+  Mechanical Design Engineer · Creative Developer
+</p>
 
-## 🚨 Forking this repo (please read!)
+---
 
-Many people have contacted me asking me if they can use this code for their own website, and the answer to that question is usually **yes, with attribution**.
+## ✨ Overview
 
-I value keeping my site open source, but as you all know, _**plagiarism is bad**_. It's always disheartening whenever I find that someone has copied my site without giving me credit. I spent a non-trivial amount of effort building and designing this iteration of my website, and I am proud of it! All I ask of you all is to not claim this effort as your own.
+This repository contains the source code for my **personal portfolio website**.
 
-Please also note that I did not build this site with the intention of it being a starter theme, so if you have questions about implementation, please refer to the [Gatsby docs](https://www.gatsbyjs.org/docs/).
+The site is being actively customized to showcase:
+- Mechanical & engineering experience
+- Technical projects and design work
+- Creative development and visualization
+- Selected side projects and experiments
 
-### TL;DR
+The design, content, and structure are currently **under construction** and will evolve over time.
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
+---
 
-## 🛠 Installation & Set Up
+## 🚧 Current Status
 
-1. Install the Gatsby CLI
+> ⚠️ **Work in progress**
 
-   ```sh
-   npm install -g gatsby-cli
-   ```
+Planned updates include:
+- Custom branding & logo
+- Updated color theme (dark / black-based)
+- Refined typography
+- Curated project showcases
+- Simplified social links (LinkedIn & GitHub)
 
-2. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
+---
 
-   ```sh
-   nvm install
-   ```
+## 🛠 Tech Stack
 
-3. Install dependencies
+- **Gatsby** (React-based static site generator)
+- **JavaScript / React**
+- **Styled Components**
+- **Static build & deployment**
 
-   ```sh
-   yarn
-   ```
+---
 
-4. Start the development server
+## 🤝 Credits & Attribution
 
-   ```sh
-   npm start
-   ```
+This project was originally forked from the **v4 portfolio** by **Brittany Chiang**.
 
-## 🚀 Building and Running for Production
+- Original repository:  
+  https://github.com/bchiang7/v4
+- License: **MIT**
 
-1. Generate a full static production build
+The original project provided the foundational layout and structure.  
+All branding, content, and ongoing modifications are being customized for my own use.
 
-   ```sh
-   npm run build
-   ```
+Thank you to Brittany for open-sourcing such a clean and well-crafted base.
 
-1. Preview the site as it will appear once deployed
+---
 
-   ```sh
-   npm run serve
-   ```
+## 📜 License
 
-## 🎨 Color Reference
-
-| Color          | Hex                                                                |
-| -------------- | ------------------------------------------------------------------ |
-| Navy           | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) `#0a192f` |
-| Light Navy     | ![#112240](https://via.placeholder.com/10/0a192f?text=+) `#112240` |
-| Lightest Navy  | ![#233554](https://via.placeholder.com/10/303C55?text=+) `#233554` |
-| Slate          | ![#8892b0](https://via.placeholder.com/10/8892b0?text=+) `#8892b0` |
-| Light Slate    | ![#a8b2d1](https://via.placeholder.com/10/a8b2d1?text=+) `#a8b2d1` |
-| Lightest Slate | ![#ccd6f6](https://via.placeholder.com/10/ccd6f6?text=+) `#ccd6f6` |
-| White          | ![#e6f1ff](https://via.placeholder.com/10/e6f1ff?text=+) `#e6f1ff` |
-| Green          | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#64ffda` |
+This project is licensed under the **MIT License**.  
+See the `LICENSE` file for details.

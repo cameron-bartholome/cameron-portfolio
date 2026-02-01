@@ -253,11 +253,9 @@ export const pageQuery = graphql`
           frontmatter {
             date
             title
-            tech
             github
             external
-            ios
-            android
+            tech
             company
           }
           html

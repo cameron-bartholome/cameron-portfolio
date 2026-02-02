@@ -29,13 +29,15 @@ The site structure is based on a clean, minimal foundation and is being progress
 The site is actively being updated and refined.  
 Content, visuals, and structure may change as development continues.
 
+This site is intentionally iterative and will evolve as I deepen my front-end and JavaScript skills.
+
 ---
 
 ## Focus
 
-- Mechanical design & engineering projects  
-- CAD models, drawings, and documented outcomes  
-- Practical build work and prototyping  
+- Mechanical design & engineering projects
+- CAD models, drawings, and documented outcomes
+- Practical build work and prototyping
 - Clear visual communication of technical concepts
 
 ---

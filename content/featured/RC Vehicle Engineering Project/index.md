@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: 'Scale 1:8 RC Eleanor Project'
-cover: './blender-image.png'
+cover: './Inventor-image.png'
 github: ''
 external: ''
 cta: '#'

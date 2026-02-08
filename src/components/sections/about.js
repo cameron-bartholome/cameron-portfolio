@@ -145,51 +145,54 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Cameron, and I work as a{' '}
+              I work as a{' '}
               <a
                 href="https://www.asme.org/topics-resources/content/what-is-mechanical-engineering"
                 target="_blank"
                 rel="nofollow noopener noreferrer">
                 Mechanical Design Engineer
               </a>{' '}
-              with a strong focus on precision, manufacturability, and clear technical
-              communication. My day-to-day work revolves around detailed CAD design, structured
-              documentation, and engineering decision-making in high-tech environments.
+              in high-tech development environments where multiple systems, disciplines, and
+              constraints come together. My focus is on maintaining structure across design intent,
+              interfaces, and documentation, so decisions remain clear as complexity increases.
             </p>
 
             <p>
-              Currently, I’m a Mechanical Design Engineer at{' '}
+              In my current role at{' '}
               <a
                 href="https://www.brabant-engineering.nl/"
                 target="_blank"
                 rel="nofollow noopener noreferrer">
                 Neitraco – Brabant Engineering
               </a>
-              , contributing to{' '}
+              , I contribute to{' '}
               <a href="https://www.asml.com/" target="_blank" rel="nofollow noopener noreferrer">
                 ASML-related projects
               </a>{' '}
-              within the MDev Laser Beam environment. My work focuses on high-precision mechanical
+              within the SL beam delivery systems. My work focuses on high-precision mechanical
               systems, supporting advanced semiconductor manufacturing.
             </p>
 
             <p>
-              Outside of work, I build and explore projects that expand my technical expertise and
-              refine how I communicate ideas. I use{' '}
+              Outside of professional work, I explore and build projects driven by curiosity and
+              enjoyment. These projects provide space to experiment with ideas, tools, and workflows
+              without fixed constraints, while still applying the same principles of clarity,
+              structure, and execution that guide my engineering work. I use{' '}
               <a href="https://www.blender.org/" target="_blank" rel="nofollow noopener noreferrer">
                 Blender for hard-surface modeling and visualization
               </a>{' '}
-              to better present mechanical concepts, and validate ideas through{' '}
+              to communicate mechanical concepts, and{' '}
               <a
                 href="https://all3dp.com/1/fdm-vs-sla-3d-printing/"
                 target="_blank"
                 rel="nofollow noopener noreferrer">
-                SLA and FDM 3D printing.
-              </a>
+                SLA and FDM 3D printing
+              </a>{' '}
+              to validate ideas physically.
             </p>
 
             <p>
-              Alongside this, I’m developing skills in{' '}
+              Alongside this, I continue developing skills in{' '}
               <a
                 href="https://www.ibm.com/topics/machine-learning"
                 target="_blank"

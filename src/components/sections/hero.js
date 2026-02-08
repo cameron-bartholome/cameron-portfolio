@@ -66,8 +66,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a mechanical design engineer specializing in the development of high-precision
-        mechanical systems and tools. I currently work at{' '}
+        I’m a mechanical design engineer currently working at{' '}
         <a href="https://www.brabant-engineering.nl/" target="_blank" rel="noreferrer">
           Neitraco – Brabant Engineering
         </a>
